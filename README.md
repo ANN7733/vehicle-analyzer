@@ -28,7 +28,7 @@ This project provides a RESTful API for analyzing images of urban streets. It de
 
 2. **Install dependencies**:
    ```bash
-   poetry install
+   poetry install --no-root
    ```
 
 3. **Download YOLOv11 weights**:
